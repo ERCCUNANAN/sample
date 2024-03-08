@@ -1,0 +1,42 @@
+body{ 
+    padding:0px;
+    margin:0px;
+}
+.header{
+    color:#fff0f0;
+    height: 70px;
+    background: rgb(33,27,33);
+    background: linear-gradient(90deg, rgba(33,27,33,1) 14%, rgba(94,83,83,1) 82%);
+    padding-top: 10px;
+    height: 100px;
+}
+.header{
+    font-family: cursive;
+    font-size: 25px;
+}
+.image{
+    padding-top:0%;
+}
+.brandname{
+    display: inline-block;
+    vertical-align: top;
+    color: white;
+    padding-left: 10px;
+}
+.ing{
+    height: 100%;
+    width: 30%;
+}
+.log{
+    display: inline-block;
+    vertical-align: top;
+    padding-left: 190px;
+    padding-top: 0px;
+    float: right;
+    padding-top: 15px;
+ 
+}
+.logo{
+    height: 10vh;
+    width:15vh;
+}
