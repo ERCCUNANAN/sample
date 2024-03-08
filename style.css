@@ -5,13 +5,13 @@ body{
 .header{
     color:#fff0f0;
     height: 70px;
-    background: rgb(33,27,33);
-    background: linear-gradient(90deg, rgba(33,27,33,1) 14%, rgba(94,83,83,1) 82%);
+    background: rgb(54,54,68);
+background: linear-gradient(90deg, rgba(54,54,68,1) 36%, rgba(66,66,80,1) 57%);
     padding-top: 10px;
     height: 100px;
 }
 .header{
-    font-family: cursive;
+    font-family:cursive;
     font-size: 25px;
 }
 .image{
@@ -30,13 +30,13 @@ body{
 .log{
     display: inline-block;
     vertical-align: top;
-    padding-left: 190px;
-    padding-top: 0px;
-    float: right;
-    padding-top: 15px;
+    padding-left: 20px;
+    padding-top: 10px;
+    float: left;
+    padding-top: 10px;
  
 }
 .logo{
-    height: 10vh;
+    height: 12vh;
     width:15vh;
 }
