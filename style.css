@@ -32,11 +32,24 @@ background: linear-gradient(90deg, rgba(54,54,68,1) 36%, rgba(66,66,80,1) 57%);
     vertical-align: top;
     padding-left: 20px;
     padding-top: 10px;
-    float: left;
-    padding-top: 10px;
+    float: right;
+    padding-top: 0%;
  
 }
 .logo{
     height: 12vh;
     width:15vh;
+    color: red;
+}
+.welcome{
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    color: black;
+    font-size: 70px;
+    padding-left:50px;
+    padding-top: 0px;
+    
+}
+.text{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: black;
 }
